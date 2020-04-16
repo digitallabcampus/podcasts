@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+	<title>IBM UKI & Hursley Podcasts</title>
+	<link>https://www.ibm.com/uk-en/marketing/locations/hursley.html</link>
+	<description>For IT, Enterprise, Hybrid-Cloud, Cloud, Middle-ware, Virtualisation, Integration and Best Practise</description>
+	<item>
+		<title>Mike Clark's Podcasting Podcast</title>
+		<link>https://ibm.box.com/s/ovfqz4j0fqxdyuagt2guv6d9kxj6xx8i</link>
+		<description>Perhaps now is a great time to start sharing - and perhaps a podcast is the perfect vehicle?</description>
+		<guid>https://ibm.box.com/s/ovfqz4j0fqxdyuagt2guv6d9kxj6xx8i</guid>
+	</item>
+</channel>
+
+</rss>
