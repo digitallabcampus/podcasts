@@ -2,7 +2,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 <channel>
 <title>IBM UKI &amp; Hursley Podcasts</title>
-<link>https://www.ibm.com/uk-en/marketing/locations/hursley.html<link>
+<!-- <link>https://www.ibm.com/uk-en/marketing/locations/hursley.html<link> -->
 <language>en-us</language>
 <itunes:subtitle>The market-leading and cutting edge discussion from the IBM UKI &amp; Hursley Research Laboratory</itunes:subtitle>
 <itunes:author>IBM UKI &amp; Hursley Digital Lab Campus</itunes:author>
@@ -14,8 +14,9 @@
 </itunes:owner>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://github.com/digitallabcampus/podcasts/blob/master/EBC%20Branding%20Still%20Frame%20-%201500x1500px.jpg" />
-<itunes:category text="Technology Podcasts"/></itunes:category>
-
+<itunes:category text="Technology">
+	<itunes:category text="Information Technology"/>
+</itunes:category>
 <!--REPEAT THIS BLOCK FOR EACH EPISODE-->
 <item>
     <title>IBM Hursley Podcasing Podcast</title>
