@@ -1,16 +1,35 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
-
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 <channel>
-	<title>IBM UKI & Hursley Podcasts</title>
-	<link>https://www.ibm.com/uk-en/marketing/locations/hursley.html</link>
-	<description>For IT, Enterprise, Hybrid-Cloud, Cloud, Middle-ware, Virtualisation, Integration and Best Practise</description>
-	<item>
-		<title>Mike Clark's Podcasting Podcast</title>
-		<link>https://ibm.box.com/s/ovfqz4j0fqxdyuagt2guv6d9kxj6xx8i</link>
-		<description>Perhaps now is a great time to start sharing - and perhaps a podcast is the perfect vehicle?</description>
-		<guid>https://ibm.box.com/s/ovfqz4j0fqxdyuagt2guv6d9kxj6xx8i</guid>
-	</item>
-</channel>
+<title>IBM UKI & Hursley Podcasts</title>
+<link>https://www.ibm.com/uk-en/marketing/locations/hursley.html<link>
+<language>en-us</language>
+<itunes:subtitle>The market-leading and cutting edge discussion from the IBM UKI & Hursley Research Laboratory</itunes:subtitle>
+<itunes:author>IBM UKI & Hursley Digital Lab Campus</itunes:author>
+<itunes:summary>For IT, Enterprise, Hybrid-Cloud, Cloud, Middle-ware, Virtualisation, Integration and Best Practise</itunes:summary>
+<description>For IT, Enterprise, Hybrid-Cloud, Cloud, Middle-ware, Virtualisation, Integration and Best Practise</description>
+<itunes:owner>
+    <itunes:name>Digital Lab Campus</itunes:name>
+    <itunes:email>digitallabcampus@uk.ibm.com</itunes:email>
+</itunes:owner>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://github.com/digitallabcampus/podcasts/blob/master/EBC%20Branding%20Still%20Frame%20-%201500x1500px.jpg" />
+<itunes:category text="Technology Podcasts"/></itunes:category>
 
+<!--REPEAT THIS BLOCK FOR EACH EPISODE-->
+<item>
+    <title>IBM Hursley Podcasing Podcast</title>
+    <itunes:summary>Is now the time to start Podcasting - this is an introduction to constructing your first Podcast</itunes:summary>
+    <description>Podcasting is increasingly popular and a great way to share your expertise and knowledge</description>
+    <link>https://github.com/digitallabcampus/podcasts/blob/master/Podcasting%20Podcast.mp3</link>
+    <enclosure url="https://github.com/digitallabcampus/podcasts/blob/master/Podcasting%20Podcast.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Thu, 16 Apr 2020 19:40:00 +0000</pubDate>
+    <itunes:author>IBM UKI & Hursley Digital Lab Campus</itunes:author>
+    <itunes:duration>00:05:25</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>http://example.com/podcast-1</guid>
+</item> 
+<!--END REPEAT--> 
+   
+</channel>
 </rss>
