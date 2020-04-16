@@ -23,7 +23,7 @@
     <itunes:summary>Is now the time to start Podcasting - this is an introduction to constructing your first Podcast</itunes:summary>
     <description>Podcasting is increasingly popular and a great way to share your expertise and knowledge</description>
     <link>https://github.com/digitallabcampus/podcasts/blob/master/Podcasting%20Podcast.mp3</link>
-    <enclosure url="https://github.com/digitallabcampus/podcasts/blob/master/Podcasting%20Podcast.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <enclosure url="https://raw.githubusercontent.com/digitallabcampus/podcasts/master/Podcasting%20Podcast.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Thu, 16 Apr 2020 19:40:00 +0000</pubDate>
     <itunes:author>IBM UKI &amp; Hursley Digital Lab Campus</itunes:author>
     <itunes:duration>00:05:25</itunes:duration>
